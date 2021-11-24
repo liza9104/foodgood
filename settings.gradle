@@ -1,0 +1,4 @@
+include ':app-modlue'
+include ':app'
+project(':app-modlue').projectDir = new File(rootDir, 'app/')
+rootProject.name = "foodgood"

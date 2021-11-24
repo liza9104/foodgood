@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809406397871",
+    "project_id": "foodgood-d30d2",
+    "storage_bucket": "foodgood-d30d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809406397871:android:68519784993a6f06ccc35a",
+        "android_client_info": {
+          "package_name": "com.cookandroid.foodgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809406397871-ce1kshd91v3h0pctek1hqgkktjh49aoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBI0pKeihCFlpQ9ZzY66fRZjCcoXsyyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809406397871-ce1kshd91v3h0pctek1hqgkktjh49aoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
